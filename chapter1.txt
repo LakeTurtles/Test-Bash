@@ -2,3 +2,4 @@
 "the beggining of wisdom" 
 "I am adding a third line" 
 "Adding a third line"  chapter2.txt
+"IT Added more text at the end After switching branches." 
